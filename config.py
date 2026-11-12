@@ -20,7 +20,7 @@ BOT_TOKEN = "9117443366:AAF9jHCWxmymR3A_Blos2XpWyY5r59NI9KA"                    
 MONGO_URL = "mongodb+srv://mongoguess:guessmongo@cluster0.zcwklzz.mongodb.net/?retryWrites=true&w=majority"  # mongodb+srv://...
 LOGGER_ID = -1003826733145                                                                             # log grubu id  (-100...)
 OWNER_ID = 8259875589                                                                                  # senin Telegram user id
-SESSION = "BAHhrsYAbSk63OhLJfb2o7_XOZeqsb6JCFP-fyulDeFA7w_UYB-Vs-vimqtU610Ytdd9ZUAm8M6rn4JJpi353mdjQOD5GH03X2qvcnF3XvwII-m07kWPBWTKrS7-1-_MZfKJQJ7Rd2aNdea1ngl1Zfh_ACHiNOD3rtn-sCpv0wn2vyTZh9ZYtFABqGGwHMneyxlG-rKv4FDk4ug_MYIva6fJV7Q_f57Y1GLWDBVqS8fC81SX6353BtfDaHtZegxZkL6HY4rlHHaF44OUbGHdpd53jEj9gaZnkiDqcqf0Kq8GXE2Gs06cfMOCEB9Rs0oyBO6VDkOFae6jWXsd8MIKjqB-dBuAdwAAAAIauV9-AQ"  # session_al.bat çıktısı (otomatik de yazılır)
+SESSION = "BAFRwgAADQmTnrLNiSz7DOgmE3sQHPF9qlR8lGTBxo0DfdDI17bVHxIkfB56V0k7Al-guu6nlGTsddARtfn-RU6rHmWd80io3ByyYsgGXjOOJOY3Nks0km3Rn0j8zoipe8Kr06IkWL6qMttg37ovQAC_HdYdsJHayrKhWR9OsFwMaNDpH7i48Rn6JUdXhLozFhhewfy-EXD4dtvCvh1zDeTSm_KuhXQaJKO_cYCtQd9VyF3kHQHpJ47N5P9ye5kxoewCMrVIsHAI5Y1ZgH-5djiiaqbOe8NZFNfdOq6ZmRa_UFQgTag6hYntl048745_q5LyYcfViHVJcdrBSCGJKabzlgvbCAAAAAIpUYVQAA"  # session_al.bat çıktısı (otomatik de yazılır)
 
 # isteğe bağlı
 SESSION2 = ""
